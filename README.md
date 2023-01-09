@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravRajput
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 
 <!---
 GauravRajpt/GauravRajpt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

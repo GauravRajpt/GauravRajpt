@@ -12,6 +12,7 @@
 - Tailwind CSS &#x1F3AC;
 - Redux Toolkit &#x2699;
 - Node.js :open_file_folder:
+- Express.js: :rocket:
 
 ---
 
